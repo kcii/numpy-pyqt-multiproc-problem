@@ -3,6 +3,7 @@
 import PyQt4.QtCore # <- this line causes the error
 from multiprocessing import Process
 
+# a Process subclass
 class PTask(Process):
 
     def __init__(self, func):
