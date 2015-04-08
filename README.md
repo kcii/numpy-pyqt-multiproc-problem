@@ -3,6 +3,8 @@ numpy-pyqt-multiproc-proplem
 
 numpy.linalg and pyqt packages conflict when a process is spawned -this rep is for investigating this problem
 
+* detailed here: https://github.com/obspy/obspy/wiki/Notes-on-Parallel-Processing-with-Python-and-ObsPy
+
 Packages Used:
     Python 2.7.6
     Qt 4.8.5
